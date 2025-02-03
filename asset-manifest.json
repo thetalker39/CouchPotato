@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CouchPotato/static/css/main.c019e9a2.css",
+    "main.js": "/CouchPotato/static/js/main.bfb7a506.js",
+    "static/js/488.bdf85164.chunk.js": "/CouchPotato/static/js/488.bdf85164.chunk.js",
+    "index.html": "/CouchPotato/index.html",
+    "main.c019e9a2.css.map": "/CouchPotato/static/css/main.c019e9a2.css.map",
+    "main.bfb7a506.js.map": "/CouchPotato/static/js/main.bfb7a506.js.map",
+    "488.bdf85164.chunk.js.map": "/CouchPotato/static/js/488.bdf85164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c019e9a2.css",
+    "static/js/main.bfb7a506.js"
+  ]
+}
